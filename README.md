@@ -1,8 +1,8 @@
-#Criando uma lista de jogos
+# Criando uma lista de jogos
 
 Status: Em desenvolvimento...
 
 Para rodar é necessário:
-´´´
+```
 rpm install react
-´´´
+```
