@@ -6,5 +6,3 @@ Para rodar é necessário:
 ```
 node app.js
 ```
-
-;-)
