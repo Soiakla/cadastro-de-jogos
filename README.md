@@ -4,5 +4,5 @@
 
 Para rodar é necessário:
 ```
-rpm install react
+node app.js
 ```
